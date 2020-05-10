@@ -1,0 +1,20 @@
+{
+  "files.associations": {
+    "listadtgen.h": "c",
+    "storagedevice.h": "c",
+    "string.h": "c",
+    "stdio.h": "c",
+    "fileinfo.h": "c",
+    "__hash_table": "c",
+    "__split_buffer": "c",
+    "array": "c",
+    "bitset": "c",
+    "string_view": "c",
+    "initializer_list": "c",
+    "string": "c",
+    "unordered_map": "c",
+    "utility": "c",
+    "vector": "c",
+    "stdlib.h": "c"
+  }
+}
